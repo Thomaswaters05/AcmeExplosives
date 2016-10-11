@@ -1,0 +1,20 @@
+{
+  "name": "lib",
+  "description": "Acme Explosives",
+  "main": "index.js",
+  "authors": [
+    "Tommy Waters <Thomas.Waters05@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Thomaswaters05/AcmeExplosives",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
